@@ -1,5 +1,6 @@
 # hello-world
-Hello World Guede
+Hi World Guede
 
 
-# 2071-04-27 수정
+# 2019-10-01 수정
+Update Hello World
